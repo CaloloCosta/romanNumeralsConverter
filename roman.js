@@ -5,7 +5,7 @@ arabicInput.addEventListener("input",(e)=>{
   romanInput.value = arabicToRoman(e.target.value);
 });
 romanInput.addEventListener("input",(e)=>{
-  arabicInput.value = romanToarabic(e.target.value);
+  arabicInput.value = romanToArabic(e.target.value);
 
 });
 
