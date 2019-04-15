@@ -1,4 +1,5 @@
 const arabicInput = document.getElementById("arabicInput");
+console.log(arabicInput);
 const romanInput = document.getElementById("romanInput");
 
 arabicInput.addEventListener("input",(e)=>{
