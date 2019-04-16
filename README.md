@@ -1,3 +1,3 @@
 # romanNumberConverter
-web converter for roman number to integer and vice versa
-check it out live <a href="https://calolocosta.github.io/romanNumeralsConverter/>here</a>.
+Converter of Roman numerals into arabic numerals and vice versa
+check it out live <a href="https://calolocosta.github.io/romanNumeralsConverter">here</a>.
